@@ -1,9 +1,3 @@
-# Support Copy
-
-Status: ready to publish for the initial free TestFlight beta once the GitHub Pages URLs are live.
-
-## Support Page Draft
-
 # Blockd Support
 
 Blockd is a local iPhone Screen Time utility for blocking selected apps and websites with quick blocks, focus timers, schedules, Deep Work, and temporary unlock friction.
@@ -48,22 +42,3 @@ Please include your iPhone model, iOS version, what you were trying to do, what 
 Email: ejosterman@gmail.com
 
 Privacy Policy: https://ostermaneric.github.io/blockd-pages/privacy/
-
-## Support Email Auto-Reply Draft
-
-Subject: We received your Blockd support message
-
-Thanks for testing Blockd. We received your message and will review it.
-
-If you are reporting a beta issue, the most useful details are:
-
-- iPhone model
-- iOS version
-- TestFlight build number
-- whether Screen Time access is approved
-- the feature you were testing
-- what you expected
-- what happened instead
-- screenshots or screen recordings, if comfortable
-
-Blockd itself has no accounts, analytics, tracking, ads, or servers. Please do not send sensitive personal information unless it is needed for your support request.

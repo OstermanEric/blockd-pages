@@ -1,14 +1,10 @@
-# Privacy Policy Draft
-
-Status: ready to publish for the initial free TestFlight beta once the GitHub Pages URLs are live.
+# Blockd Privacy Policy
 
 ## Short version
 
 Blockd itself does not use accounts, analytics, tracking, ads, servers, or external services. Your blocking setup and Blockd progress stats stay on your iPhone.
 
 Apple, iOS, App Store Connect, and TestFlight may process their own operational data when you install, test, or submit feedback through Apple services. This policy describes Blockd's behavior, not Apple's.
-
-## Draft policy
 
 Effective date: May 8, 2026
 
